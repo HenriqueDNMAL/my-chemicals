@@ -32,8 +32,6 @@ MyChemicals Marketplace is an innovative platform designed to the buying and sel
 
 ## Getting Started
 
-## Getting Started
-
 ### For Farmers:
 
 1. **Signing Up:**
