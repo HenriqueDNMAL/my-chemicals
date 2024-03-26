@@ -32,54 +32,52 @@ MyChemicals Marketplace is an innovative platform designed to the buying and sel
 
 ## Getting Started
 
-### For Buyers:
+## Getting Started
 
-1. **Accessing the Home Page:**
-   - **Purpose:** If you are looking to buy or sell chemical products.
-   - **Action:** Visit the home page of MyChemicals Marketplace.
+### For Farmers:
 
-2. **Register as a User:**
-   - **Purpose:** If you wish to buy or sell a chemical product.
-   - **Action:** Sign up as a user on the platform.
+1. **Signing Up:**
+   - **Purpose:** Register as a user to manage your farm and chemical inventory.
+   - **Action:** Sign up for an account on MyChemicals platform.
 
-3. **Accessing the Products Purchase Page:**
-   - **Purpose:** When you are ready to search for the desired product.
-   - **Action:** Navigate to the product purchase page.
+2. **Creating Your Farm:**
+   - **Purpose:** Establish your farm within the platform.
+   - **Action:** Create your farm profile and specify its details.
 
-4. **Choosing a Product:**
-   - **Purpose:** When you have found the product you are looking for.
-   - **Action:** Select the desired product.
+3. **Setting Up Storage:**
+   - **Purpose:** Define storage areas within your farm for organizing chemical inventory.
+   - **Action:** Set up storage locations to manage chemical storage efficiently.
 
-5. **Completing the Purchase:**
-   - **Purpose:** When you are ready to confirm your selection.
-   - **Action:** Finalize the purchase.
+4. **Managing Stock:**
+   - **Purpose:** Add or remove products to/from your farm's stock.
+   - **Action:** Add products to the stock or record exits as needed.
 
-6. **Viewing the Made Order:**
-   - **Purpose:** To access the order you have made.
-   - **Action:** View the order you have placed.
+5. **Adding Employees:**
+   - **Purpose:** Delegate tasks and assign roles to employees.
+   - **Action:** Invite employees to join your farm and grant them appropriate permissions.
 
-### For Sellers:
+6. **Viewing Employee Activity:**
+   - **Purpose:** Monitor stock movements and pending actions made by employees.
+   - **Action:** View the activity log to track entries and exits recorded by employees.
 
-1. **Accessing the Product Listing Page:**
-   - **Purpose:** If you want to list your product for sale.
-   - **Action:** Go to the page for listing products.
+7. **Generating Reports:**
+   - **Purpose:** Obtain detailed reports on stock movements within a specified time frame.
+   - **Action:** Access the registration page to select entries and exits for a period and generate a PDF report.
 
-2. **Register as a User:**
-   - **Purpose:** If you wish to buy or sell a chemical product.
-   - **Action:** Sign up as a user on the platform.
-     
-3. **Creating a Product Listing:**
-   - **Purpose:** To list your product for sale.
-   - **Action:** Create a listing for your product.
+### For Employees:
 
-3. **Viewing the Listed Product:**
-   - **Purpose:** To access the listing you have created.
-   - **Action:** View the listing you have made.
+1. **Accepting Invitation:**
+   - **Purpose:** Join a farm as an employee to assist with stock management.
+   - **Action:** Accept the invitation received from a farmer to join their farm.
 
-4. **Editing a Product Listing:**
-   - **Purpose:** If you need to make changes to a listing.
-   - **Action:** Edit the listing as needed.
+2. **Accessing Assigned Farm and Stock:**
+   - **Purpose:** View and manage the farm and stock assigned to you.
+   - **Action:** Access the farm and stock information provided by the farmer.
 
-5. **Deleting a Product Listing:**
-   - **Purpose:** If you want to remove a listing.
-   - **Action:** Delete the listing.
+3. **Recording Stock Movements:**
+   - **Purpose:** Record pending entries and exits for the assigned stock.
+   - **Action:** Create pending entries and exits to update stock movements accordingly.
+
+4. **Viewing Farm Activity:**
+   - **Purpose:** Monitor your own activity and contributions to stock management.
+   - **Action:** View your own activity log to track entries and exits recorded.
